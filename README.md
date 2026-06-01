@@ -25,11 +25,11 @@ Technologies Used
 Sample Passwords Tested
 
 - abc → Weak
-- password123 → Medium
-- Password@123 → Strong
+- hari45 → Medium
+- Hari@45 → Strong
 
 Author
 
-Hari Prasad
+Hari Prasath R
 
 Decode Labs Cyber Security Internship – Project 1
