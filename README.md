@@ -28,8 +28,30 @@ Sample Passwords Tested
 - hari45 → Medium
 - Hari@45 → Strong
 
-Author
+project visuals
+# weak password
+<img width="1920" height="1080" alt="weak" src="https://github.com/user-attachments/assets/f61ed47e-ba52-413b-8a79-0e150349d0d2" />
+# medium password
+<img width="1920" height="1080" alt="medium" src="https://github.com/user-attachments/assets/c17d52b3-6099-4903-89ee-fa7ca9ab906d" />
+# strong password
+ <img width="1920" height="1080" alt="strong" src="https://github.com/user-attachments/assets/d11b9fd4-e18e-4e3c-aa4f-a422c0757938" />
 
-Hari Prasath R
+ How to Run the Project
 
-Decode Labs Cyber Security Internship – Project 1
+1. Install Python 3 on your computer
+2. Download or clone this repository
+3. Open the project folder in Visual Studio Code
+4. Open the terminal
+5. Run the following command:
+python password_checker.py
+6. Enter a password when prompted
+7. The program will display whether the password is:
+- Weak
+- Medium
+- Strong
+
+  Author
+
+  Hari Prasath R
+
+  Decode Labs Cyber Security Internship – Project 1
