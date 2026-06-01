@@ -31,8 +31,10 @@ While working on this project, I gained a better understanding of how password p
 # project visuals
 # Weak password
 <img width="1920" height="1080" alt="weak" src="https://github.com/user-attachments/assets/f61ed47e-ba52-413b-8a79-0e150349d0d2" />
+
 # Medium password
 <img width="1920" height="1080" alt="medium" src="https://github.com/user-attachments/assets/c17d52b3-6099-4903-89ee-fa7ca9ab906d" />
+
 # Strong password
  <img width="1920" height="1080" alt="strong" src="https://github.com/user-attachments/assets/d11b9fd4-e18e-4e3c-aa4f-a422c0757938" />
 
@@ -52,4 +54,5 @@ python password_checker.py
 
 # Author
 Hari Prasath R
+
 Decode Labs Cyber Security Internship – Project 1
